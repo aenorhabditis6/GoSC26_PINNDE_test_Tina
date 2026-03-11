@@ -1,6 +1,5 @@
 # PINN for the Damped Harmonic Oscillator
 
-**Test task for [ML4Sci - Physics-Informed Neural Network Diffusion Equation (PINNDE)](https://ml4sci.org/gsoc/2025/proposal_GENIE5.html)**  
 Physics‑Informed Neural Network conditioned on damping ratio ξ to solve a family of ODEs with one model.
 
 <p align="center">
